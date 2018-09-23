@@ -1,3 +1,6 @@
+# flask-skeleton
+Sample microservice skeleton for Flask
+
 To run locally:
 
 ```
@@ -7,4 +10,3 @@ $ export FLASK_ENV=development
 $ pip install -e .
 $ flask run
 ```
-
